@@ -21,7 +21,7 @@ It uses Cosmos-SDK's [simapp](https://github.com/cosmos/cosmos-sdk/tree/main/sim
 
 ## Quick guide
 
-Get started with [building RollApps](https://docs.dymension.xyz/develop/get-started/setup)
+Get started with [building RollApps](https://docs.dymension.xyz/learn/rollapps/overview)
 
 ## Installing / Getting started
 
@@ -60,7 +60,7 @@ You should have a running local rollapp!
 
 ### Run local dymension hub node
 
-Follow the instructions on [Dymension Hub docs](https://docs.dymension.xyz/develop/get-started/run-base-layers) to run local dymension hub node
+Follow the instructions on [Dymension Hub docs](https://docs.dymension.xyz/validate/dymension/join-network) to run local dymension hub node
 
 ### Create sequencer keys
 
